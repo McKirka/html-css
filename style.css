@@ -1,0 +1,37 @@
+table{
+  color: green
+  border-radius: 8px;
+  border: 2px solid red;
+}
+
+[height="90"] {
+  color: orange;
+}
+
+.privet {
+  color: green;
+}
+
+#ideveloper {
+  font-weight: bold;
+}
+
+html tr {
+  color: purple;
+}
+
+.list > li {
+  color: blue;
+}
+
+.font-size-md {
+  font-size: 18px;
+}
+
+.font-size-md.color-red {
+  color: red;
+}
+
+.font-size-md.color-gray {
+  color: gray;
+}
